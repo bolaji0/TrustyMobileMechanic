@@ -598,6 +598,10 @@ section {
   background-color: var(--color-background);
 }
 
+.accordion-item span{
+  color: var(--color-text);
+}
+
 .accordion-header {
   width: 100%;
   background-color: var(--color-background);
